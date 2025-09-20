@@ -1,1 +1,44 @@
 /*  your css code here. If applicable */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  margin: 20px;
+  color: #333;
+}
+
+h1 {
+  color: #b22222;
+  text-align: center;
+}
+
+h2 {
+  margin-top: 20px;
+  color: #444;
+}
+
+p {
+  font-size: 1.1em;
+  line-height: 1.5;
+  max-width: 600px;
+  margin: 0 auto 20px;
+  text-align: center;
+}
+
+ol, ul {
+  max-width: 600px;
+  margin: 10px auto;
+  padding-left: 40px;
+}
+
+li {
+  margin-bottom: 8px;
+}
+
+strong {
+  color: #b22222;
+}
+
+em {
+  font-style: italic;
+  color: #0066cc;
+}
